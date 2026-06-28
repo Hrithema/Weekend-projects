@@ -39,7 +39,6 @@ As I progress, this repository will expand with projects involving:
 * Web Scraping
 * Automation
 * APIs
-* Game Development
 * Data Structures & Algorithms
 * Machine Learning
 
