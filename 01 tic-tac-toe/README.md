@@ -28,6 +28,8 @@ python gui.py
 
 ## 📸 Screenshots
 
-![tkinter version](assets\image-1.png)
-
-![terminal version](assets\image-1.png)
+<p align="center">
+  <img src="assets/image.png" alt="Tkinter Version" height="300"> 
+  
+  <img src="assets/image-1.png" alt="Terminal Version" height="300">
+</p>
