@@ -28,6 +28,6 @@ python gui.py
 
 ## 📸 Screenshots
 
-![tkinter version](image.png)
+![tkinter version](assets\image-1.png)
 
-![terminal version](image-1.png)
+![terminal version](assets\image-1.png)
